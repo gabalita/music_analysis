@@ -1,0 +1,33 @@
+Domain
+A synthetically generated music dataset for a small imaginary Music Labels.
+
+Content
+
+ARTISTS
+
+id: artist's unique identifier;
+real_name: artist's real name;
+art_name: the career name the artist has chosen for him/herself;
+role: the artist's main role (singer, guitarist, dancer, drummer… );
+yearofbirth: the artist's year of birth;
+email: the artist's email. It's not necessarily unique as it can be also a common email;
+country: where the artist comes from;
+city: the city in which the artist lives. It can be in a different country from what stated above;
+zip_code: the postal zip code.
+
+
+
+ALBUMS
+
+id: the album identifier;
+artist_id: the artist identifier;
+album_title: the title of the album;
+genre: the genre of the album. An artist can release albums of different genres;
+yearofpub: the year the album was published;
+numoftracks: how many tracks there are in the album (a small number can mean longer tracks);
+numofsales: how many sales the album has made in the first month after the release;
+rollingstonecritic: how magazine Rolling Stone has rated the album;
+mtv_critic: how MTV has rated the album;
+musicmaniaccritic: how review site Music Maniac has rated the album.
+Acknowledgements
+We need this dataset for university so probably we will never change it.
