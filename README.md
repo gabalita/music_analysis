@@ -12,7 +12,7 @@ Question:
       - Lyrics (sentiment analysis from Genius - how happy or sad a word is?) 
       - Determining accuracy: compare top genres that an artist is classified as? can our ML model classify an artist the same way?
       - Train with Ariane Grande, Test with Billie Eillish
-      - Use the Spotify Curated Mood playlist (training data) and link it to the playlists' songs audio features to determine patterns, use these patterns to classify other songs or artists' songs
+      - Use the Spotify Curated Mood playlist (training data) and link it to the playlists' songs audio features to determine patterns, use these patterns to classify other songs or artists' songs (make sure we have enough training data for each mood)
     - Can our Machine Learning algorithm classify moods or the genre?
     
 Sources of Data:
