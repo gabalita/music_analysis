@@ -24,7 +24,7 @@ Sources of Data:
 
 Database:
 - SQLite
-
+- 
 Machine Learning ideas:
 1. song features --> classify song's mood
 2. song features --> classify song's genre
