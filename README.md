@@ -25,6 +25,10 @@ Sources of Data:
 Database:
 - SQLite
 - 
+![iOS.png](Image from iOS/iOS.png)
+
+We will pull raw data from Spotify and Apple datasets to create a combined dataset to analyze data of the playlists, albums, artists, and tracks. Data will be filtered utilizing the artist_id, album_id, playlist_id, and track_id as primary keys, to help determine the moods sad, happy, and workout. 
+
 Machine Learning ideas:
 1. song features --> classify song's mood
 2. song features --> classify song's genre
