@@ -11,7 +11,7 @@ Question:
       - Major vs minor
       - Lyrics (sentiment analysis from Genius - how happy or sad a word is?) 
       - Determining accuracy: compare top genres that an artist is classified as? can our ML model classify an artist the same way?
-      - Train with Ariane Grande, Test with Billie Eillish
+      - Train with Ariana Grande, Test with Billie Eillish
       - Use the Spotify Curated Mood playlist (training data) and link it to the playlists' songs audio features to determine patterns, use these patterns to classify other songs or artists' songs (make sure we have enough training data for each mood)
     - Can our Machine Learning algorithm classify moods or the genre?
     
@@ -24,8 +24,8 @@ Sources of Data:
 
 Database:
 - SQLite
-- 
-![iOS.png](Image from iOS/iOS.png)
+
+![iOS.png](path/to/iOS.png)
 
 We will pull raw data from Spotify and Apple datasets to create a combined dataset to analyze data of the playlists, albums, artists, and tracks. Data will be filtered utilizing the artist_id, album_id, playlist_id, and track_id as primary keys, to help determine the moods sad, happy, and workout. 
 
