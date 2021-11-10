@@ -1,2 +1,13 @@
 # Adding config.py file.
 config.py
+
+# Adding other CSV files
+spotify_brigid.csv
+spotify_gabby.csv
+
+# Adding Jupyter Notebook Files
+spotipy_demo.ipynb
+
+SpotifyAnalysis.xlsx
+
+__pycache__/config.cpython-38.pyc
