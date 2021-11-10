@@ -1,0 +1,61 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Another Love,Long Way Down (Deluxe),Tom Odell,2013-06-24,244360,85,0.445,0.695,0.445,0.537,1.65e-05,0.0944,-8.532,0.04,122.769,4
+1,Easy On Me,Easy On Me,Adele,2021-10-14,224694,100,0.604,0.578,0.604,0.366,0.0,0.133,-7.519,0.0282,141.981,4
+2,Black Hole - Acoustic Version,Black Hole (Acoustic Version),Griff,2021-03-19,175979,61,0.824,0.854,0.824,0.3,0.0,0.174,-6.678,0.0565,112.867,4
+3,GHOST TOWN,GHOST TOWN,Benson Boone,2021-10-15,193733,84,0.391,0.389,0.391,0.335,0.0,0.102,-10.064,0.0763,174.185,3
+4,24/5,24/5,Mimi Webb,2021-09-10,158220,75,0.559,0.403,0.559,0.763,0.0,0.127,-4.16,0.105,91.069,4
+5,Visiting Hours,Visiting Hours,Ed Sheeran,2021-08-19,215506,82,0.471,0.77,0.471,0.396,0.0,0.0729,-6.654,0.0336,149.609,4
+6,Train Wreck,Back from the Edge,James Arthur,2016-10-28,208826,82,0.311,0.701,0.311,0.485,0.0,0.0726,-5.726,0.0365,77.355,4
+7,IDK You Yet,IDK You Yet,Alexander 23,2020-04-09,184638,6,0.629,0.884,0.629,0.306,0.0776,0.124,-11.735,0.0424,76.994,1
+8,Is It Just Me? (feat. JP Cooper),Is It Just Me?,Emily Burns,2020-12-04,203300,67,0.478,0.688,0.478,0.339,0.0,0.104,-7.355,0.0544,145.441,4
+9,Falling,Fine Line,Harry Styles,2019-12-13,240133,85,0.567,0.839,0.567,0.267,1.46e-06,0.089,-6.502,0.0299,110.011,4
+10,Happiest Year,Happiest Year,Jaymes Young,2019-07-12,228442,79,0.501,0.885,0.501,0.167,0.0,0.111,-14.061,0.0484,112.275,3
+11,we'll be fine,we'll be fine,Luz,2020-06-19,262960,36,0.563,0.748,0.563,0.382,0.0,0.0714,-11.138,0.0404,120.802,4
+12,Heather,Kid Krow,Conan Gray,2020-03-20,198040,86,0.357,0.584,0.357,0.425,0.0,0.322,-7.301,0.0333,102.078,3
+13,Shouldn't Be Thinking About You,Songs They Told Me Weren't Singles - Part 1,Jamie Grey,2021-10-21,171724,48,0.708,0.887,0.708,0.298,0.0,0.101,-8.704,0.0483,86.838,4
+14,that way,all the things i never said,Tate McRae,2020-01-24,175026,81,0.453,0.728,0.453,0.383,0.0,0.387,-11.015,0.163,105.029,4
+15,Conversations in the Dark,Conversations in the Dark,John Legend,2020-01-10,237426,66,0.372,0.754,0.372,0.355,0.0,0.167,-8.436,0.03,126.705,4
+16,drivers license,drivers license,Olivia Rodrigo,2021-01-08,242013,44,0.585,0.721,0.585,0.436,1.31e-05,0.105,-8.761,0.0601,143.874,4
+17,Learn To Let Go,Learn To Let Go,St. Lundi,2020-07-03,210094,52,0.473,0.62,0.473,0.309,0.0,0.152,-9.086,0.0332,135.791,4
+18,Unstable (feat. The Kid LAROI),Justice,Justin Bieber,2021-03-19,158324,73,0.495,0.737,0.495,0.333,0.0,0.112,-10.109,0.0288,99.757,4
+19,Love is Pain,Optimist,FINNEAS,2021-10-15,224278,70,0.609,0.927,0.609,0.141,0.000104,0.0923,-15.33,0.0394,78.233,4
+20,Good Without,Good Without,Mimi Webb,2021-03-26,182121,77,0.616,0.0723,0.616,0.576,0.0,0.375,-5.495,0.0532,89.962,4
+21,Panic Attacks in Paradise,Panic Attacks in Paradise / Maggots,Ashnikko,2021-09-29,184885,71,0.695,0.554,0.695,0.386,0.0,0.0906,-5.114,0.0337,127.947,4
+22,Nocturnal,Nocturnal,Aaron Smith,2021-09-17,262978,52,0.391,0.883,0.391,0.242,2.81e-05,0.0729,-10.613,0.036,112.128,5
+23,As the World Caves In,As the World Caves In,Sarah Cothran,2021-06-10,161612,52,0.372,0.436,0.372,0.255,0.0,0.33,-6.834,0.0344,114.402,1
+24,Unconditional,For My Father,Aaron Smith,2020-08-07,203000,54,0.438,0.886,0.438,0.309,1.78e-06,0.21,-9.022,0.0565,137.705,4
+25,Haunted House,Haunted House,Holly Humberstone,2021-04-06,133226,58,0.366,0.871,0.366,0.269,0.0,0.101,-9.197,0.0439,127.523,4
+26,Your Power,Your Power,Billie Eilish,2021-04-29,245896,50,0.634,0.937,0.634,0.285,0.000359,0.232,-14.007,0.0807,129.65,4
+27,Remember - Acoustic,Remember (Acoustic),Becky Hill,2021-07-09,178626,73,0.62,0.797,0.62,0.379,0.0,0.195,-8.675,0.0412,118.899,4
+28,if this is the last time,if this is the last time,LANY,2020-07-01,203842,2,0.565,0.0175,0.565,0.586,0.0,0.204,-7.726,0.0363,147.986,4
+29,lie to me,lie to me,Tate McRae,2020-10-14,177440,68,0.642,0.0151,0.642,0.392,0.0,0.352,-7.846,0.0372,138.065,4
+30,If The World Was Ending,If The World Was Ending,JP Saxe,2019-10-17,208687,56,0.378,0.863,0.378,0.47,0.0,0.0954,-10.095,0.197,75.955,4
+31,Not For Me,Not For Me,Sarah Proctor,2021-10-22,226404,45,0.55,0.737,0.55,0.302,0.0,0.0868,-14.412,0.0415,89.873,4
+32,Back to Friends,Back to Friends,Lauren Spencer-Smith,2021-07-15,215980,67,0.749,0.82,0.749,0.319,0.0,0.0993,-9.946,0.0771,116.828,4
+33,My Oh My,My Oh My,James Smith,2021-01-29,159381,60,0.398,0.598,0.398,0.493,0.0,0.121,-6.988,0.0728,92.548,5
+34,Crying Over You,Crying Over You,The Band CAMINO,2020-07-31,178949,64,0.463,0.679,0.463,0.411,0.0,0.0453,-8.25,0.0414,147.3,4
+35,Red Hearts,Red Hearts,Hana Lili,2021-09-17,263897,47,0.489,0.893,0.489,0.291,1.24e-06,0.0952,-10.015,0.0428,123.602,3
+36,Hurt Like That,Hurt Like That,Katelyn Tarver,2021-10-21,196333,51,0.785,0.104,0.785,0.486,6.92e-05,0.0808,-7.545,0.0335,112.004,4
+37,Body,Body,Jordan Suaste,2020-05-15,205401,65,0.452,0.627,0.452,0.325,0.0,0.0645,-8.687,0.0337,97.987,4
+38,Loud,Loud,JC Stewart,2021-06-25,257366,52,0.33,0.242,0.33,0.424,0.000187,0.118,-7.763,0.0276,151.153,4
+39,What A Time (feat. Niall Horan),Inner Monologue Part 1,Julia Michaels,2019-01-24,173306,84,0.516,0.662,0.516,0.467,0.0,0.0853,-6.184,0.0302,132.861,4
+40,Unlearn (with Gracie Abrams),Unlearn (with Gracie Abrams),benny blanco,2021-03-24,155361,67,0.429,0.897,0.429,0.214,0.0,0.105,-12.261,0.242,77.849,4
+41,I'm Not Ok,I'm Not Ok,RHODES,2020-06-19,203928,52,0.394,0.517,0.394,0.35,0.0,0.0738,-7.751,0.0323,125.941,4
+42,could cry just thinkin about you,could cry just thinkin about you (Full Version),Troye Sivan,2021-07-09,158000,68,0.515,0.318,0.515,0.323,0.0,0.106,-11.05,0.0429,147.972,4
+43,Falling Up,Falling Up,Dean Lewis,2021-03-05,206947,68,0.654,0.648,0.654,0.756,0.0,0.0995,-3.594,0.0534,103.551,4
+44,Down Days,Down Days,Charlotte Jane,2021-02-19,172821,50,0.716,0.276,0.716,0.661,0.0,0.349,-4.503,0.0543,81.451,4
+45,London's Requiem,London's Requiem,Louis Dunford,2020-11-06,302400,48,0.448,0.407,0.448,0.34,4.44e-06,0.107,-8.048,0.0337,102.696,4
+46,Cool Girl,Cool Girl,dodie,2020-10-19,199384,56,0.73,0.872,0.73,0.205,0.0593,0.095,-15.489,0.0957,124.989,4
+47,Runaway,Runaway (Piano Version),AURORA,2021-03-11,250040,50,0.342,0.609,0.342,0.278,8.17e-05,0.107,-9.349,0.0352,86.134,3
+48,My Mistakes,My Mistakes,Matthew Nolan,2020-07-10,194166,1,0.464,0.878,0.464,0.268,0.0,0.0939,-10.288,0.0464,143.755,4
+49,Blame,Blame,Grace Carter,2020-07-17,251527,63,0.34,0.781,0.34,0.398,6.08e-05,0.193,-8.156,0.0711,171.391,3
+50,"Love Can Be So Lonely, Sometimes (feat. Gabrielle Aplin)","Love Can Be So Lonely, Sometimes (feat. Gabrielle Aplin)",Nick Wilson,2021-07-30,225256,53,0.341,0.945,0.341,0.196,1.26e-06,0.0993,-12.049,0.0442,132.287,4
+51,Diamonds - Acoustic,Diamonds (Acoustic),Sam Smith,2020-10-09,194541,57,0.489,0.841,0.489,0.284,0.0,0.137,-8.699,0.0508,186.337,4
+52,Seven,Seven,Claudia Valentina,2020-06-26,223826,55,0.801,0.865,0.801,0.143,0.0,0.132,-10.698,0.0475,119.891,4
+53,I Miss You - Paddy's Song,Boxes EP,Gavin James,2020-10-02,209006,43,0.523,0.553,0.523,0.377,0.0,0.116,-7.914,0.0293,139.897,4
+54,hurt so bad,hurt so bad,Cian Ducrot,2020-07-02,242488,0,0.461,0.337,0.461,0.452,0.0,0.269,-6.529,0.0366,168.074,3
+55,Elsewhere,Elsewhere,Minke,2020-05-01,272727,47,0.549,0.926,0.549,0.186,0.0004,0.151,-13.781,0.0274,110.152,4
+56,(I should) take better care,(I should) take better care,Cody Frost,2021-06-04,274946,49,0.581,0.839,0.581,0.209,2.05e-06,0.106,-7.295,0.0293,125.067,4
+57,Bedroom Ceiling,Bedroom Ceiling,Sody,2020-05-28,180085,54,0.49,0.728,0.49,0.416,0.0,0.0694,-7.702,0.127,125.928,4
+58,If We're Being Honest,If We're Being Honest,Novo Amor,2020-09-03,235053,52,0.498,0.888,0.498,0.432,0.617,0.136,-7.297,0.0296,132.928,4
+59,"Boring, Happy, Beautiful","Boring, Happy, Beautiful",Sianon,2020-11-20,168522,46,0.401,0.879,0.401,0.215,0.0,0.134,-10.349,0.0649,172.109,5

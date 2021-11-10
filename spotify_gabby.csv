@@ -1,101 +1,51 @@
 ,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
-0,The Spark,Deceiver,DIIV,2019-10-04,239213,13,0.385,6.38e-05,0.385,0.819,0.545,0.204,-6.061,0.0497,140.016,4
-1,She,She,Alice Phoebe Lou,2018-02-23,235515,54,0.358,0.117,0.358,0.579,0.0109,0.0899,-8.718,0.0388,128.411,4
-2,Nostalgia,Paper Castles,Alice Phoebe Lou,2019-03-08,197950,50,0.44,0.692,0.44,0.256,0.0,0.244,-8.731,0.0342,121.634,4
-3,Paper Castles,Paper Castles,Alice Phoebe Lou,2019-03-08,234871,35,0.571,0.214,0.571,0.406,0.0607,0.119,-9.097,0.0414,83.894,4
-4,Something Holy,Paper Castles,Alice Phoebe Lou,2019-03-08,286172,51,0.411,0.284,0.411,0.47,1.51e-06,0.0765,-6.821,0.0319,131.734,4
-5,My Outside,Paper Castles,Alice Phoebe Lou,2019-03-08,189438,35,0.664,0.337,0.664,0.778,0.0,0.141,-5.476,0.0924,139.961,3
-6,show me love,isaac gracie (extended edition),isaac gracie,2018-04-13,197133,40,0.511,0.00785,0.511,0.721,8.85e-05,0.271,-6.0,0.0303,81.525,4
-7,last words,isaac gracie (extended edition),isaac gracie,2018-04-13,223813,38,0.511,0.584,0.511,0.333,4.92e-05,0.111,-9.163,0.0293,75.847,4
-8,terrified,isaac gracie (extended edition),isaac gracie,2018-04-13,274666,40,0.39,0.378,0.39,0.54,0.00934,0.105,-8.395,0.0307,151.065,4
-9,You Never Knew,Something to Tell You,HAIM,2017-07-07,269226,41,0.738,0.143,0.738,0.707,9.85e-06,0.105,-5.966,0.0265,117.999,4
-10,Carry Me Away,Carry Me Away,John Mayer,2019-09-06,159134,36,0.674,0.00894,0.674,0.711,0.163,0.1,-6.671,0.0286,119.987,4
-11,"In Your Atmosphere - Live at the Nokia Theatre, Los Angeles, CA - December 2007",Where the Light Is: John Mayer Live In Los Angeles,John Mayer,2008,345626,58,0.372,0.714,0.372,0.442,8.68e-05,0.966,-11.488,0.0289,92.72,4
-12,Get The Old Band Back Together,Get The Old Band Back Together,Christian Lee Hutson,2020-05-07,188373,0,0.606,0.275,0.606,0.514,0.00011,0.121,-6.562,0.0335,100.766,4
-13,Sometimes,White Roses,Flyte,2019-09-20,159133,31,0.561,0.335,0.561,0.601,0.0608,0.11,-8.393,0.0428,165.963,4
-14,To Mr Fahey,To Mr Fahey,Joff Oddie,2020-05-15,227458,1,0.339,0.78,0.339,0.513,0.852,0.14,-6.634,0.0402,111.527,4
-15,Don’t Wanna,Don't Wanna,HAIM,2020-05-21,201786,35,0.762,0.161,0.762,0.498,9.55e-06,0.172,-5.294,0.0481,107.049,4
-16,One Time Villain,One Time Villain,Coco,2020-05-13,191511,36,0.391,0.0448,0.391,0.648,0.813,0.0994,-10.422,0.029,103.836,4
-17,My Mind Is a Maze,Dumb Daze,Alann8h,2020-05-14,146677,57,0.85,0.671,0.85,0.223,3.23e-05,0.0914,-11.46,0.0705,95.008,4
-18,Friend,Friend,Sipper,2020-04-03,81573,0,0.42,0.573,0.42,0.574,2.43e-06,0.262,-10.286,0.0335,88.858,3
-19,Tomorrow I'll Try,Tomorrow I’ll Try,Heaven Honey,2020-05-08,224686,4,0.516,0.587,0.516,0.431,0.00026,0.0775,-9.547,0.0265,95.036,4
-20,La nuit américaine,Lescop,Lescop,2013-01-14,213867,29,0.679,0.0597,0.679,0.872,0.906,0.12,-5.003,0.0301,133.027,4
-21,Maddy La Nuit,Contre-Temps,Flavien Berger,2019-07-31,210400,0,0.76,0.806,0.76,0.336,0.504,0.118,-13.415,0.0448,119.985,4
-22,Nuit,Sémaphore,Requin Chagrin,2019-01-25,298880,26,0.369,0.323,0.369,0.466,0.216,0.244,-8.295,0.0259,169.023,4
-23,Les humains,Les humains,Voyou,2020-02-07,219040,11,0.58,0.556,0.58,0.647,0.00388,0.0822,-8.16,0.037,149.989,4
-24,The Path of Thorns (Terms),Solace,Sarah McLachlan,1992-01-27,349933,27,0.567,0.638,0.567,0.355,6.54e-06,0.214,-14.13,0.025,89.975,4
-25,Hunger,High As Hope,Florence + The Machine,2018-06-29,214666,64,0.729,0.53,0.729,0.675,0.0,0.0985,-5.62,0.0415,116.016,4
-26,Sky Full Of Song,High As Hope,Florence + The Machine,2018-06-29,226160,58,0.533,0.731,0.533,0.32,1.65e-05,0.154,-8.819,0.0316,98.036,4
-27,Carmen,This Fire,Paula Cole,1996,225133,23,0.712,0.858,0.712,0.125,0.00334,0.106,-17.837,0.0354,100.816,4
-28,Annabel,Your Daughters & Your Sons,The Duhks,2006-01-01,263653,37,0.534,0.756,0.534,0.312,0.000392,0.0813,-9.349,0.0272,138.614,4
-29,Guaranteed,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,164500,61,0.436,0.904,0.436,0.4,0.00105,0.125,-11.485,0.0272,100.734,4
-30,Guaranteed - Humming Version,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,162309,49,0.292,0.923,0.292,0.339,0.879,0.111,-13.153,0.032,100.69,4
-31,The Way You Love Me,Breathe,Faith Hill,1999-11-09,186066,59,0.627,0.127,0.627,0.716,0.0,0.0344,-7.175,0.0352,101.99,4
-32,"Sleep, Rinse, Repeat (OurVinyl Sessions)","Sleep, Rinse, Repeat (OurVinyl Sessions)",Ona,2019-11-15,229118,7,0.563,0.00117,0.563,0.559,0.758,0.205,-14.536,0.0287,123.936,4
-33,Summer Candy,"Full Moon, Heavy Light",Ona,2019-05-10,285626,40,0.539,0.0469,0.539,0.833,0.00946,0.254,-6.825,0.0327,132.101,4
-34,Golden Highway Deserter,"Full Moon, Heavy Light",Ona,2019-05-10,272520,17,0.468,0.142,0.468,0.716,0.0873,0.104,-8.174,0.0482,150.114,4
-35,One by One by One,One by One by One,Bendigo Fletcher,2019-11-04,198816,16,0.405,0.923,0.405,0.257,8.82e-05,0.103,-15.278,0.038,58.575,4
-36,Porch Light,In The Magic Hour,Aoife O'Donovan,2016-01-22,197466,0,0.359,0.717,0.359,0.538,0.000489,0.228,-8.487,0.0302,95.123,3
-37,Leader of the Band,Love Songs,Dan Fogelberg,1979,256399,63,0.628,0.872,0.628,0.159,0.0,0.111,-14.363,0.0333,135.003,4
-38,Garden Song,Garden Song,Phoebe Bridgers,2020-02-26,220065,38,0.371,0.868,0.371,0.256,0.00507,0.112,-16.7,0.227,195.674,4
-39,Brightest Star,Walking Proof,Lilly Hiatt,2020-03-27,187486,45,0.626,0.0389,0.626,0.541,0.0,0.0639,-7.89,0.0249,108.944,4
-40,Ciao rubello,Requin Chagrin,Requin Chagrin,2016-04-29,200893,20,0.542,0.0947,0.542,0.673,0.627,0.113,-8.031,0.0346,120.018,4
-41,Rae,Walking Proof,Lilly Hiatt,2020-03-27,175773,26,0.612,0.807,0.612,0.217,3.05e-05,0.177,-12.479,0.0423,80.821,4
-42,Walking Proof,Walking Proof,Lilly Hiatt,2020-03-27,235290,20,0.554,0.171,0.554,0.395,0.000113,0.291,-9.213,0.0276,76.01,4
-43,Never Play Guitar,Walking Proof,Lilly Hiatt,2020-03-27,200595,16,0.715,0.126,0.715,0.671,0.0,0.142,-8.863,0.0302,116.012,4
-44,The Night David Bowie Died,Trinity Lane,Lilly Hiatt,2017-08-25,215008,25,0.583,0.00144,0.583,0.66,0.00153,0.137,-6.43,0.0271,98.533,4
-45,Shane,Shane,Fruit Bats,2020-04-15,221326,3,0.678,0.00234,0.678,0.789,0.592,0.323,-10.252,0.0277,125.943,4
-46,Blue Bell,Simpatico Demos,Golden Daze,2020-04-17,208541,10,0.48,0.892,0.48,0.454,0.151,0.171,-8.363,0.0273,68.638,4
-47,Life Too Late,Simpatico Demos,Golden Daze,2020-04-17,199000,15,0.619,0.668,0.619,0.31,0.384,0.241,-9.091,0.0241,88.008,4
-48,Kismet Road,Simpatico Demos,Golden Daze,2020-04-17,185000,12,0.712,0.48,0.712,0.746,0.876,0.112,-7.853,0.0288,126.011,4
-49,Palm Reader,Out of the Vein,Third Eye Blind,2003-05-13,293240,29,0.507,0.00205,0.507,0.861,0.000482,0.316,-3.557,0.0359,117.606,4
-50,Alright Caroline,Third Eye Blind (20th Anniversary Edition),Third Eye Blind,2017-06-09,290426,36,0.574,0.00558,0.574,0.545,0.00239,0.306,-7.104,0.0254,148.164,4
-51,Non Dairy Creamer,Red Star,Third Eye Blind,2008-11-18,266200,33,0.654,0.0179,0.654,0.713,0.000139,0.0954,-4.69,0.0284,100.042,4
-52,Tattoo of the Sun - 2006 Remaster,A Collection,Third Eye Blind,2006-07-18,256986,22,0.655,0.00422,0.655,0.935,0.0,0.186,-4.505,0.039,112.025,4
-53,Who Am I,Screamer,Third Eye Blind,2019-10-18,151042,24,0.563,0.161,0.563,0.557,0.0,0.238,-6.741,0.0429,96.955,4
-54,Keep Me In the Open,Go Farther In Lightness,Gang of Youths,2017-08-18,356573,46,0.43,0.485,0.43,0.489,0.0355,0.133,-10.422,0.0505,173.995,4
-55,Let Me Down Easy,Go Farther In Lightness,Gang of Youths,2017-08-18,319346,61,0.672,0.22,0.672,0.899,0.302,0.142,-6.878,0.0323,139.01,4
-56,The Heart Is a Muscle,Go Farther In Lightness,Gang of Youths,2017-08-18,323906,51,0.501,0.00587,0.501,0.865,0.00536,0.276,-5.268,0.0492,106.543,4
-57,"Nocturne in Eb Major, FP. 56 No. 7",Mediterranean Sounds,Belle Chen,2016-09-08,124996,0,0.38,0.995,0.38,0.0496,0.956,0.152,-27.894,0.0421,75.726,4
-58,Talk,Talk,Christian Lee Hutson,2020-03-26,177613,0,0.769,0.647,0.769,0.349,0.00574,0.11,-8.222,0.0421,129.038,4
-59,Can’t Do Much,Saint Cloud,Waxahatchee,2020-03-27,224106,1,0.587,0.579,0.587,0.544,6.65e-05,0.11,-9.49,0.0267,112.15,4
-60,Enough for Now (feat. Phoebe Bridgers),En Garde,Ethan Gruska,2020-01-24,196394,44,0.523,0.142,0.523,0.652,0.000132,0.356,-8.597,0.14,168.933,4
-61,On the Outside,En Garde,Ethan Gruska,2020-01-24,189215,40,0.748,0.818,0.748,0.351,0.00117,0.106,-10.96,0.033,108.862,4
-62,Deep In Love,Bonny Light Horseman,Bonny Light Horseman,2020-01-24,309072,39,0.618,0.604,0.618,0.558,0.395,0.124,-8.184,0.0251,111.709,4
-63,The Roving,Bonny Light Horseman,Bonny Light Horseman,2020-01-24,260832,23,0.54,0.579,0.54,0.453,0.0197,0.113,-7.336,0.0256,137.897,4
-64,We Used To Be Friends,Welcome To The Monkey House,The Dandy Warhols,2003-01-01,199960,59,0.712,7.18e-05,0.712,0.665,0.192,0.306,-4.878,0.0266,105.284,4
-65,Be-In,The Dandy Warhols Come Down,The Dandy Warhols,1997-01-01,420466,32,0.36,0.00497,0.36,0.639,0.94,0.182,-9.775,0.039,117.011,4
-66,Alien With a Sleep Mask On,Printer's Devil,Ratboys,2020-02-28,230017,30,0.395,0.0329,0.395,0.78,0.611,0.122,-5.645,0.0471,112.98,4
-67,Here's Where The Story Ends,"Reading, Writing & Arithmetic",The Sundays,1990-01-01,234906,51,0.62,0.294,0.62,0.593,0.0,0.0749,-10.985,0.0281,109.044,4
-68,Jackrabbit,Memory Fever,Bendigo Fletcher,2019-09-20,242400,17,0.489,0.124,0.489,0.606,0.0284,0.0977,-8.438,0.0355,129.438,4
-69,Solar Eclipse 08/21/17,Memory Fever,Bendigo Fletcher,2019-09-20,152506,17,0.392,0.94,0.392,0.231,1.07e-06,0.0856,-14.812,0.0391,79.868,4
-70,AMF,Memory Fever,Bendigo Fletcher,2019-09-20,297693,18,0.345,0.586,0.345,0.436,0.0175,0.108,-11.239,0.0406,145.543,4
-71,Sleepwalkin',Better Oblivion Community Center,Better Oblivion Community Center,2019-01-24,192706,29,0.386,0.00262,0.386,0.826,1.22e-05,0.301,-7.527,0.0749,143.353,4
-72,Service Road,Better Oblivion Community Center,Better Oblivion Community Center,2019-01-24,224333,22,0.54,0.454,0.54,0.548,3.84e-05,0.135,-10.303,0.0405,83.876,4
-73,Stephanie - Winter Version,Stephanie (Winter Version),Blonde Tongues,2016-08-09,232469,16,0.438,0.0341,0.438,0.576,0.0595,0.102,-10.318,0.0316,72.021,4
-74,To Another Land,"Love, Lose, Remember",Madison Cunningham,2017-03-28,201594,6,0.571,0.222,0.571,0.705,3.22e-05,0.1,-7.493,0.0439,109.902,4
-75,I Close My Eyes,"Love, Lose, Remember",Madison Cunningham,2018-06-08,239120,29,0.446,0.675,0.446,0.434,0.00283,0.112,-9.767,0.0291,124.472,3
-76,Window,"Love, Lose, Remember",Madison Cunningham,2018-06-08,268266,21,0.303,0.652,0.303,0.559,0.000833,0.0998,-7.445,0.0342,87.586,3
-77,No One Else To Blame,No One Else To Blame,Madison Cunningham,2020-01-17,182480,23,0.576,0.906,0.576,0.239,0.000277,0.132,-11.442,0.0315,93.644,4
-78,Song In My Head,Who Are You Now,Madison Cunningham,2019-08-16,280293,53,0.515,0.0915,0.515,0.582,7.09e-05,0.113,-6.226,0.0414,119.089,4
-79,Something To Believe In,Who Are You Now,Madison Cunningham,2019-08-16,237493,40,0.421,0.893,0.421,0.129,5.43e-06,0.095,-11.315,0.0342,118.383,4
-80,Song for Judee,case/lang/veirs,case/lang/veirs,2016-06-17,192456,29,0.538,0.727,0.538,0.433,0.0136,0.115,-13.117,0.0503,91.923,4
-81,Best Kept Secret,case/lang/veirs,case/lang/veirs,2016-06-17,197304,38,0.485,0.0174,0.485,0.842,0.012,0.175,-6.593,0.054,131.343,4
-82,The Tigers Have Spoken,Truckdriver Gladiator Mule,Neko Case,2015-11-27,161760,3,0.421,0.181,0.421,0.877,0.00159,0.713,-5.801,0.0487,117.446,3
-83,Maybe Sparrow,Truckdriver Gladiator Mule,Neko Case,2015-11-27,157520,4,0.279,0.431,0.279,0.566,0.0,0.109,-5.724,0.0361,184.628,3
-84,Ragtime,"The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",Neko Case,2013-09-03,314347,21,0.447,0.0992,0.447,0.449,0.000839,0.21,-6.384,0.0472,82.79,4
-85,Happening,Do Right,Sugar Candy Mountain,2018-05-04,256664,3,0.261,0.0474,0.261,0.627,0.652,0.226,-8.558,0.0352,174.029,4
-86,The Dealer,24 Karat Gold: Songs from the Vault,Stevie Nicks,2014-09-30,278138,50,0.704,0.0358,0.704,0.78,0.000375,0.0754,-6.401,0.0284,121.939,4
-87,I Just Wanna Hang Around You,20/20,George Benson,1985-01-15,268666,42,0.514,0.539,0.514,0.462,0.0,0.0611,-13.726,0.0336,72.676,4
-88,Please Don't Walk Away,20/20,George Benson,1985-01-15,230133,34,0.72,0.548,0.72,0.489,0.0,0.0725,-9.165,0.028,99.157,4
-89,Nothing's Gonna Change My Love for You,20/20,George Benson,1985-01-15,242678,70,0.553,0.764,0.553,0.614,0.0,0.0811,-5.098,0.0306,136.628,4
-90,Spit on a Stranger,Spit on a Stranger,Valley Queen,2019-11-15,195712,9,0.34,0.936,0.34,0.132,0.0,0.111,-11.044,0.0383,78.113,4
-91,For The First Time,For The First Time,Best Coast,2019-11-05,218714,27,0.69,0.00805,0.69,0.671,8.7e-05,0.088,-6.193,0.0249,109.96,4
-92,Song To The Siren - Recorded at Spotify Studios London,Spotify Singles,Wolf Alice,2017-11-15,211159,34,0.372,0.963,0.372,0.15,0.0,0.124,-11.116,0.0294,68.776,4
-93,Beautifully Unconventional,Visions Of A Life,Wolf Alice,2017-09-29,133160,37,0.745,0.0217,0.745,0.837,0.000969,0.21,-4.065,0.0308,104.493,4
-94,Peace Signs,Epic,Sharon Van Etten,2010-09-21,173160,42,0.572,0.1,0.572,0.879,0.212,0.0768,-6.575,0.0358,128.034,4
-95,If I Lost You,W T F,Why The Face,2019-02-22,166964,0,0.466,0.525,0.466,0.528,0.0,0.138,-7.484,0.0479,117.304,4
-96,Sign,Retrofuturism,VHS Collection,2018-11-02,260357,0,0.686,0.012,0.686,0.603,0.00551,0.0865,-6.261,0.0347,112.006,4
-97,The Basement (Live on Standard Selects),Lunar Vacation (Live on Standard Selects),Lunar Vacation,2019-05-20,303155,0,0.328,0.144,0.328,0.706,0.638,0.107,-8.369,0.0322,171.304,4
-98,Breaking Your Silence,Reader As Detective,Generationals,2019-07-19,202466,30,0.691,0.0391,0.691,0.687,0.0138,0.0612,-4.117,0.0361,140.083,4
-99,Put a Light On,Heza,Generationals,2013,226933,61,0.688,0.056,0.688,0.771,0.000106,0.0561,-4.463,0.0291,100.01,4
+0,All Of My Love - HYDDIN Remix,All Of My Love (Remixes),Adam Pearce,2020-11-06,212694,6,0.395,0.0344,0.395,0.717,0.000438,0.164,-6.245,0.0625,79.545,4
+1,what i know,what i know,mike.,2021-06-11,189000,22,0.548,0.623,0.548,0.355,0.0,0.155,-11.161,0.195,94.059,4
+2,so sick,so sick,mike.,2021-05-07,125423,52,0.816,0.12,0.816,0.434,3.07e-05,0.109,-10.029,0.0756,88.978,4
+3,i don't wanna party,i don't wanna party,mike.,2021-03-12,179424,58,0.755,0.606,0.755,0.404,8.04e-05,0.127,-6.404,0.0539,99.012,4
+4,Piece of Me,Piece of Me,Tano | Mark,2021-04-30,175124,20,0.607,0.0641,0.607,0.748,0.0,0.136,-5.321,0.0554,160.222,4
+5,Summer on You,Summer on You,Tano | Mark,2021-06-11,216000,22,0.526,0.0522,0.526,0.78,0.0,0.13,-6.763,0.0533,100.164,4
+6,Rise,Tales on Exhale,Danny del Ray,2020-10-30,180755,14,0.62,0.638,0.62,0.831,0.0,0.285,-4.266,0.523,175.326,4
+7,Everlong,The Colour And The Shape,Foo Fighters,1997-05-20,250546,78,0.413,5.99e-05,0.413,0.881,0.000308,0.0805,-5.541,0.0367,158.066,4
+8,Friends & Family,Emergency Tsunami,NAV,2020-11-06,145121,60,0.853,0.0331,0.853,0.502,0.0,0.144,-7.187,0.105,129.02,4
+9,Loft Music,Trilogy,The Weeknd,2012-11-13,363640,62,0.287,0.581,0.287,0.498,7.56e-05,0.322,-7.523,0.177,171.725,4
+10,No Debate (feat. Young Thug),Good Intentions,NAV,2020-05-08,128071,53,0.857,0.00209,0.857,0.654,0.0,0.115,-6.303,0.326,88.015,4
+11,My Business (feat. Future),Good Intentions,NAV,2020-05-08,199104,52,0.853,0.0809,0.853,0.881,0.0,0.141,-4.949,0.178,139.979,4
+12,I Want You,Only By The Night,Kings of Leon,2008-09-23,307453,56,0.705,0.115,0.705,0.643,0.000763,0.111,-6.556,0.0276,99.198,4
+13,Face Of My City (feat. Lil Baby),Thats What They All Say,Jack Harlow,2020-12-11,123446,68,0.74,0.0034,0.74,0.566,0.0,0.589,-8.389,0.32,156.197,4
+14,Gone,Yesterday's Tomorrow Night,Harry Hudson,2018-03-30,226045,13,0.571,0.403,0.571,0.456,1.32e-05,0.135,-7.596,0.027,97.027,4
+15,Die For Me (feat. Future & Halsey),Hollywood's Bleeding,Post Malone,2019-09-06,245266,72,0.614,0.19,0.614,0.66,0.0,0.211,-2.848,0.0441,145.01,4
+16,Young Wheezy (with Gunna),Emergency Tsunami (Bonus Version),NAV,2020-11-11,151481,43,0.916,0.00998,0.916,0.529,0.0,0.0884,-3.785,0.102,121.998,4
+17,Drip Too Hard (Lil Baby & Gunna),Drip Harder,Lil Baby,2018-10-05,145542,81,0.897,0.0852,0.897,0.662,0.0,0.534,-6.903,0.292,112.511,4
+18,FRANCHISE (feat. Young Thug & M.I.A.),FRANCHISE (feat. Young Thug & M.I.A.),Travis Scott,2020-09-25,202794,74,0.835,0.00671,0.835,0.699,0.0,0.195,-5.405,0.277,154.981,4
+19,Take What You Want (feat. Ozzy Osbourne & Travis Scott),Hollywood's Bleeding,Post Malone,2019-09-06,229573,76,0.499,0.0906,0.499,0.8,0.0,0.147,-2.665,0.0502,139.919,4
+20,Wheels Up,Wheels Up,Future Royalty,2021-04-20,237313,21,0.541,0.0174,0.541,0.71,0.00145,0.313,-10.685,0.0554,133.978,4
+21,The Best,The Best,Future Royalty,2019-04-05,226478,53,0.578,0.0328,0.578,0.861,0.019,0.103,-6.043,0.0995,142.032,4
+22,Put On,The Recession,Jeezy,2008-01-01,321293,70,0.654,0.00342,0.654,0.77,0.0,0.0887,-6.091,0.0353,137.616,4
+23,Repercussions (with Young Thug),Emergency Tsunami (Bonus Version),NAV,2020-11-11,159003,41,0.791,0.00171,0.791,0.77,0.0,0.141,-5.133,0.112,159.944,4
+24,Always Strapped,Always Strapped,Birdman,2009-01-01,208533,14,0.739,0.0624,0.739,0.602,0.000204,0.102,-6.64,0.228,82.492,4
+25,You Be Killin Em,There Is No Competition 2: The Grieving Music Mixtape,Fabolous,2010-01-01,209693,57,0.664,0.444,0.664,0.909,0.0,0.525,-3.552,0.22,93.977,4
+26,Up All Night,Thank Me Later,Drake,2010-01-01,234333,62,0.606,0.00782,0.606,0.811,1.49e-05,0.349,-4.667,0.278,156.347,4
+27,G-Unit,Beg For Mercy,G-Unit,2003-01-01,209333,0,0.704,0.083,0.704,0.902,0.0,0.0725,-3.204,0.299,88.241,4
+28,N.O.R.E.,N.O.R.E.,N.O.R.E.,1998,194040,0,0.884,0.00128,0.884,0.726,0.0,0.0521,-4.483,0.289,93.477,4
+29,"Tadow (feat. French Montana, 2 Chainz & Pusha T)","Tadow feat. French Montana, 2 Chainz & Pusha T",N.O.R.E.,2013-01-15,249980,0,0.661,0.11,0.661,0.836,0.0,0.32,-6.487,0.34,140.014,4
+30,Stunt 101,Beg For Mercy,G-Unit,2003-01-01,232226,0,0.743,0.177,0.743,0.771,0.0,0.12,-1.492,0.355,95.827,4
+31,Hold You Down,Hold You Down,DJ Khaled,2014-08-08,293253,0,0.507,0.208,0.507,0.664,0.0,0.165,-4.763,0.0669,151.873,3
+32,Take Me to Church,Take Me to Church EP,Hozier,2013-09-13,241586,45,0.572,0.59,0.572,0.661,0.0,0.121,-5.304,0.0472,129.093,4
+33,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",Listen (Deluxe),David Guetta,2014-11-24,192560,63,0.596,0.24,0.596,0.73,0.0,0.325,-4.091,0.151,85.979,4
+34,Ballin Out,Excuse My French (Deluxe),French Montana,2013-01-01,265346,31,0.56,0.064,0.56,0.734,0.0,0.08,-3.973,0.121,75.836,4
+35,Patiently Waiting,Get Rich Or Die Tryin',50 Cent,2003-02-06,288880,62,0.538,0.245,0.538,0.675,0.0,0.362,-2.3,0.335,78.985,4
+36,Bad B*tch,Bad B*tch,French Montana,2014-12-15,244386,0,0.701,0.176,0.701,0.633,0.0,0.714,-7.71,0.152,99.926,4
+37,When I Feel Like It,When I Feel Like It,Fabolous,2013-01-01,258079,39,0.739,0.0125,0.739,0.56,0.0,0.223,-7.227,0.0674,114.984,4
+38,Nightcrawler (feat. Swae Lee & Chief Keef),Rodeo (Expanded Edition),Travis Scott,2015-09-04,321560,66,0.522,0.00134,0.522,0.728,0.0,0.132,-3.801,0.0323,124.045,4
+39,Tapout,Tapout,Rich Gang,2013-01-01,284600,52,0.738,0.0522,0.738,0.547,1.23e-06,0.109,-6.54,0.133,142.052,4
+40,No Games,No Games,Rick Ross,2013-01-01,233426,44,0.759,0.0185,0.759,0.828,1.66e-06,0.159,-4.217,0.0532,146.58,4
+41,Where Ya At (feat. Drake),DS2 (Deluxe),Future,2015-07-17,208026,67,0.813,0.0933,0.813,0.453,0.0,0.14,-6.941,0.338,161.997,4
+42,Da Trill,Whoo's Afraid Of Fiddy,DJ Whoo Kid,2009-11-17,164440,0,0.615,0.027,0.615,0.787,0.0,0.399,-3.533,0.446,115.374,5
+43,"Oh My (Remix) feat. Trey Songz, 2 Chainz, and Big Sean",Third Power,DJ Drama,2011-10-11,299653,0,0.677,0.0232,0.677,0.701,0.0,0.213,-6.383,0.129,135.905,4
+44,"4 What (feat. Young Jeezy, Yo Gotti & Juicy J)","4 What feat. Jeezy, Yo Gotti & Juicy J",DJ Drama,2013-06-25,246792,0,0.652,0.0163,0.652,0.746,0.0,0.305,-6.941,0.0852,144.962,4
+45,Often - Kygo Remix,Often (Kygo Remix),The Weeknd,2015-04-07,234400,68,0.523,0.123,0.523,0.491,0.0,0.331,-9.876,0.0491,80.156,4
+46,Hey Luv (Anything) (feat. 112),Life Of The Infamous: The Best Of Mobb Deep,Mobb Deep,2006-10-31,236786,19,0.836,0.137,0.836,0.675,0.0,0.0689,-5.281,0.17,99.022,4
+47,Salute,Loso's Way,Fabolous,2009-01-01,267266,30,0.629,0.303,0.629,0.682,0.0,0.173,-6.75,0.329,75.331,4
+48,All I've Got,SOLACE,RÜFÜS DU SOL,2018-10-19,223386,52,0.645,0.0359,0.645,0.686,0.0108,0.456,-6.952,0.0311,121.012,4
+49,Sundream,Atlas (Light / Dark Deluxe Edition),RÜFÜS DU SOL,2013,275493,63,0.686,0.049,0.686,0.712,0.0042,0.368,-7.58,0.0383,121.966,4
