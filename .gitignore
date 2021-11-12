@@ -11,3 +11,5 @@ spotipy_demo.ipynb
 SpotifyAnalysis.xlsx
 
 __pycache__/config.cpython-38.pyc
+
+.cache
