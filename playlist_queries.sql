@@ -17,3 +17,11 @@ select a.*, 'happy' as playlist from happy_playlist a
 union 
 select b.*, 'workout' as playlist from workout_playlist b
 ;
+
+-- Updating the Full Happy Playlist to have the length of each track set to be a decimal rather than an int
+update all_happy_playlist
+set length = cast(length as numeric)
+;
+
+-- Changes the length from milliseconds to minutes > can export out then to use as an average in the dashboard (i.e. avg length)
+select index, name, album, artist, length, (length/1000)/60 as length_min from all_happy_playlist;
