@@ -49,30 +49,26 @@ The purpose of this project was to use Spotify data to understand what makes a s
 
 <img width="750" alt="Happy Hits Playlist on Spotify" src="https://user-images.githubusercontent.com/10199828/140940484-7599fefe-f48d-48a6-8859-eea7f8a3e647.png">
 
+Since this project focused on predicting the moods of songs, which was a category predictor, the machine learning models selected were Logistic regression model, Random Forest and Decision Tree. Initially, the provisional machine models were created and trained by a limited dataset, which only contained 5331 records. Then they were going to fit and predict a big data while the database built completely.
 
+The predictor 'Mood' contained three different categories as 'Happy', 'Workout' and 'Sad'. Due to the limitation of initial dataset, there were two different attempts for machine learning models.
 
-**Machine Learning: Methodology and Results**
-
-Since this project focused on predicting the moods of songs, which was a category predictor, the machine learning models selected were Logistic regression model, Random Forest and Decision Tree. Initially, the provisional machine models were created and trained by a limited dataset, which only contained 5331 records. And they were going to fit and predict a big data while the database built completely.
-
-The predictor 'Mood' contained three different categories as 'Happy', 'Workout' and 'Sad'. Due to the limitation of initial dataset, there were two different attempts for machine learning modesls.
-
-The first attempt was to train these three models directly by the initial dataset. Among these model, the best one was Random Forest with accuracy about 80%.  
+The first attempt was to train these three models directly by the initial dataset. Among these models, the best one was Random Forest with accuracy around 80%.  
 <!-- ![Confusion Matrix of Random Forest](https://github.com/gabalita/music_analysis/blob/Baiyang/image/Random_Forest_3.png?raw=true)   -->
 <img width="350" alt="ERD" src="https://github.com/gabalita/music_analysis/blob/Baiyang/image/Random_Forest_3.png?raw=true">
 
 
-To improve the machine learning model, two strategies were used to modify the initial dataset. The first one was to remove the feature 'Loudness' which was high correlated with 'Energy'. In other words, these two variables represented the same character of a song. The second strategy was to balance the initial dataset. The percentages of each mood as'Happy', 'Workout' and 'Sad' were 12.6%, 21.9% and 65.5% respectively. It was obvious that 'Sad' occupied more proportion than others. A naive method to balance the proportion was to reduce the size of 'Sad'. But this idea was not suggested and it caused a much lower accuracy of machine learning models. Therefore, the way to keep balance was to combine 'Happy' and 'Workout' as one category since their songs had similar characters' performance.
+To improve the machine learning model, two strategies were used to modify the initial dataset. The first one was to remove the feature 'Loudness' which was highly correlated with 'Energy'. In other words, these two variables represented the same character of a song. The second strategy was to balance the initial dataset. The percentages of each mood 'Happy', 'Workout' and 'Sad' were 12.6%, 21.9% and 65.5% respectively. It was obvious that 'Sad' occupied more proportion than others. A naive method to balance the proportion was to reduce the size of 'Sad'. But this idea was not suggested and it caused a much lower accuracy of machine learning models. Therefore, the way to keep balance was to combine 'Happy' and 'Workout' as one category since their songs had similar characters' performance.
 
-The second attempt was to train these three models by the modified dataset which only had 'Sad' and 'Happy' and their proportions were 65.5% and 34.5% respectivelt. The best accurate model was still "Random Forest" with accuracy about 88%.  
+The second attempt was to train these three models by the modified dataset which only had 'Sad' and 'Happy' and their proportions were 65.5% and 34.5% respectively. The most accurate model was still "Random Forest" with accuracy around 88%.  
 <!-- ![Confusion Matrix of Random Forest](https://github.com/gabalita/music_analysis/blob/Baiyang/image/Random_Forest_2.png?raw=true)   -->
 <img width="350" alt="ERD" src="https://github.com/gabalita/music_analysis/blob/Baiyang/image/Random_Forest_2.png?raw=true">
 
-After that, adaboost was also used to find the learning rate and its corresponding accuracy.  
+Then, Adaboost was also used to find the learning rate and its corresponding accuracy.  
 <!-- ![adaboost](https://github.com/gabalita/music_analysis/blob/Baiyang/image/Adaboost.png?raw=true)   -->
 <img width="350" alt="ERD" src="https://github.com/gabalita/music_analysis/blob/Baiyang/image/Adaboost.png?raw=true">
 
-Also, the Random Forest always performed the best among these model during several attempts. Only once did the Decision Tree have better accurancy than Random Forest (when we reduced the size of 'Sad'). This was because Random Forest performed better than Decision Tree on big data situation.
+Lastly, the Random Forest always performed the best among these model during several attempts. The Decision Tree model only performed better once with better accurancy than Random Forest (when we reduced the size of 'Sad'). This was because Random Forest performed better than Decision Tree on big data situation.
 
 The next step was going to train these models with the final dataset while the database was built completely.
 
