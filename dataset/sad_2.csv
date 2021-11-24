@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Falling,Fine Line,Harry Styles,2019-12-13,240133,85,0.567,0.839,0.567,0.267,1.46e-06,0.089,-6.502,0.0299,110.011,4
+1,drivers license,drivers license,Olivia Rodrigo,2021-01-08,242013,42,0.585,0.721,0.585,0.436,1.31e-05,0.105,-8.761,0.0601,143.874,4
+2,you broke me first,you broke me first,Tate McRae,2020-04-17,169265,86,0.667,0.785,0.667,0.373,0.0,0.0906,-9.389,0.05,124.148,4
+3,Dancing With Your Ghost,Dancing With Your Ghost,Sasha Alex Sloan,2019-06-28,197732,80,0.629,0.768,0.629,0.328,2.5e-05,0.103,-8.284,0.029,74.953,4
+4,Love Is Gone - Acoustic,Love Is Gone (Acoustic),SLANDER,2019-11-13,176971,79,0.541,0.882,0.541,0.153,1.66e-06,0.16,-10.654,0.0303,139.644,4
+5,Train Wreck,Back from the Edge,James Arthur,2016-10-28,208826,82,0.311,0.701,0.311,0.485,0.0,0.0726,-5.726,0.0365,77.355,4
+6,traitor,SOUR,Olivia Rodrigo,2021-05-21,229226,92,0.38,0.691,0.38,0.339,0.0,0.12,-7.885,0.0338,100.607,4
+7,Before You Go,Before You Go,Lewis Capaldi,2019-11-19,215106,78,0.459,0.604,0.459,0.575,0.0,0.0885,-4.858,0.0573,111.881,4
+8,If the World Was Ending (feat. Julia Michaels),If the World Was Ending (feat. Julia Michaels),JP Saxe,2019-10-17,208687,81,0.464,0.866,0.464,0.473,0.0,0.109,-10.086,0.129,75.801,4
+9,Hold On,Hold On,Chord Overstreet,2017-02-03,198853,0,0.608,0.484,0.608,0.448,0.0,0.0804,-9.572,0.0513,120.084,4
+10,Talking to the Moon,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,217866,78,0.498,0.511,0.498,0.59,0.0,0.107,-4.721,0.032,145.867,4
+11,Heather,Kid Krow,Conan Gray,2020-03-20,198040,86,0.357,0.584,0.357,0.425,0.0,0.322,-7.301,0.0333,102.078,3
+12,Arcade,Arcade,Duncan Laurence,2019-03-07,183624,83,0.45,0.818,0.45,0.329,0.00109,0.135,-12.603,0.0441,71.884,3
+13,It's Ok If You Forget Me,It's Ok If You Forget Me,Astrid S,2020-09-18,204989,70,0.562,0.526,0.562,0.379,0.0,0.151,-7.625,0.231,171.848,4
+14,"I miss you, I’m sorry","I miss you, I’m sorry",Gracie Abrams,2020-04-08,167538,1,0.617,0.734,0.617,0.451,1.56e-06,0.128,-6.096,0.0481,109.757,4
+15,Lose You To Love Me,Lose You To Love Me,Selena Gomez,2019-10-23,206458,22,0.505,0.576,0.505,0.34,0.0,0.21,-9.005,0.0438,101.993,4
+16,i don't want to watch the world end with someone else,i don't want to watch the world end with someone else,Clinton Kane,2020-05-08,184505,72,0.535,0.771,0.535,0.359,0.0,0.111,-9.343,0.0607,154.163,4
+17,Are you happy?,Sad Songs,SHY Martin,2020-08-07,157555,68,0.632,0.714,0.632,0.578,0.0,0.42,-7.657,0.0905,139.324,4
+18,that way - with Jeremy Zucker,that way (with Jeremy Zucker),Tate McRae,2021-09-03,174299,70,0.394,0.573,0.394,0.398,0.0,0.313,-10.202,0.219,78.438,3
+19,Make It To Me,In The Lonely Hour (Deluxe Edition),Sam Smith,2014-01-01,162732,0,0.453,0.635,0.453,0.377,1.8e-06,0.099,-8.466,0.0896,149.95,4
+20,Unlearn (with Gracie Abrams),Unlearn (with Gracie Abrams),benny blanco,2021-03-24,155361,67,0.429,0.897,0.429,0.214,0.0,0.105,-12.261,0.242,77.849,4
+21,Hold Me While You Wait,Hold Me While You Wait,Lewis Capaldi,2019-05-03,205686,69,0.688,0.443,0.688,0.53,0.0,0.0995,-5.507,0.0333,106.958,4
+22,lovely (with Khalid),lovely (with Khalid),Billie Eilish,2018-04-19,200185,88,0.351,0.934,0.351,0.296,0.0,0.095,-10.109,0.0333,115.284,4
+23,Wrong Direction,Wrong Direction,Hailee Steinfeld,2020-01-01,248986,0,0.378,0.472,0.378,0.388,0.0,0.157,-9.017,0.036,72.293,4
+24,A Little Bit Yours,A Little Bit Yours,JP Saxe,2020-09-02,225680,68,0.598,0.735,0.598,0.295,0.0,0.107,-8.553,0.0276,87.025,4
+25,Sorry,hopeless fountain kingdom (Deluxe),Halsey,2017-06-02,220540,0,0.447,0.912,0.447,0.257,0.0,0.117,-9.172,0.0394,136.87,1
+26,Julia,~how i'm feeling~,Lauv,2020-03-06,218000,61,0.458,0.906,0.458,0.13,0.0,0.152,-14.575,0.0807,162.487,3
+27,Fix It to Break It,Fix It to Break It,Clinton Kane,2020-03-27,198798,68,0.493,0.845,0.493,0.461,0.0,0.115,-8.524,0.0456,51.414,4
+28,Complicated,Complicated,Olivia O'Brien,2015-08-09,189000,73,0.657,0.694,0.657,0.355,0.000427,0.123,-12.044,0.0714,74.99,4
+29,Half A Man,A Place We Knew,Dean Lewis,2019-03-22,179120,0,0.507,0.855,0.507,0.204,0.0,0.143,-11.575,0.0504,77.765,4
+30,Little Do You Know,It's About Us,Alex & Sierra,2014-10-06,185200,76,0.5,0.746,0.5,0.292,0.0,0.188,-8.554,0.0323,145.879,4
+31,Say You Won't Let Go,Say You Won't Let Go,James Arthur,2016-09-09,211240,70,0.4,0.693,0.4,0.564,0.0,0.0863,-7.444,0.0523,99.269,4
+32,It's You,It's You,Ali Gatie,2019-06-14,212606,3,0.732,0.374,0.732,0.463,0.0,0.194,-6.972,0.0287,95.971,4
+33,Meant To Be,Meant To Be,Ber,2021-10-06,163226,69,0.5,0.87,0.5,0.156,0.0,0.125,-11.472,0.0469,173.794,4
+34,Loved You Once,Loved You Once,Clara Mae,2019-06-21,148603,57,0.444,0.655,0.444,0.436,0.0,0.157,-5.988,0.042,77.724,3
+35,Someone You Loved,Breach,Lewis Capaldi,2018-11-08,182160,76,0.501,0.751,0.501,0.405,0.0,0.105,-5.679,0.0319,109.891,4
+36,Closure,Closure,Hayd,2021-04-01,196277,45,0.696,0.967,0.696,0.106,0.0,0.292,-16.185,0.0458,124.168,4
+37,You & Me,You & Me,James TW,2019-01-18,231653,1,0.714,0.196,0.714,0.683,7.73e-06,0.102,-6.333,0.0443,127.021,4
+38,Let Me Down Slowly,Narrated For You,Alec Benjamin,2018-11-16,169353,84,0.652,0.74,0.652,0.557,0.0,0.124,-5.714,0.0318,150.073,4
+39,All I Want,In A Perfect World,Kodaline,2013-10-08,305746,0,0.209,0.172,0.209,0.412,0.15,0.0843,-9.733,0.0443,86.26,3
+40,Lonely,Lonely,Noah Cyrus,2019-09-27,144386,0,0.594,0.779,0.594,0.26,0.0,0.0924,-9.062,0.0601,84.648,3
+41,Already Gone,Already Gone,Sleeping At Last,2015-10-06,240790,58,0.447,0.956,0.447,0.206,4.56e-06,0.107,-11.75,0.0519,66.734,4
+42,Your Power,Your Power,Billie Eilish,2021-04-29,245896,47,0.634,0.937,0.634,0.285,0.000359,0.232,-14.007,0.0807,129.65,4
+43,Bruises,Bruises,Lewis Capaldi,2017-06-19,218492,0,0.575,0.961,0.575,0.323,0.0,0.169,-6.213,0.0717,118.641,4
+44,Dynasty,Dynasty,MIIA,2016-01-29,225515,61,0.493,0.256,0.493,0.594,0.0,0.0759,-4.404,0.0378,123.751,4
+45,Ripples,Ripples,Maximillian,2019-10-25,195404,60,0.683,0.682,0.683,0.346,0.0,0.278,-9.475,0.0785,129.682,4
+46,If you're meant to come back,If you're meant to come back,Justin Jesso,2020-04-17,179354,59,0.559,0.624,0.559,0.335,0.0,0.0717,-10.262,0.0364,93.017,4
+47,Dusk Till Dawn - Radio Edit,Dusk Till Dawn (Radio Edit),ZAYN,2017-09-07,239000,80,0.258,0.101,0.258,0.437,1.27e-06,0.106,-6.593,0.039,180.043,4
+48,Jealous,Jealous,Labrinth,2014-11-21,287693,6,0.439,0.874,0.439,0.153,0.0,0.107,-8.95,0.0479,116.76,3
+49,What We Had,What We Had,Sody,2019-11-15,182813,0,0.655,0.953,0.655,0.449,0.000375,0.109,-7.437,0.0418,123.842,4
+50,Six Feet Under,Six Feet Under,Billie Eilish,2016-11-17,189613,0,0.573,0.803,0.573,0.3,0.000338,0.0773,-12.774,0.0366,67.511,4
+51,Be Alright,Be Alright,Dean Lewis,2018-06-29,196373,81,0.553,0.697,0.553,0.586,0.0,0.0813,-6.319,0.0362,126.684,4
+52,For The Lover That I Lost,Love Goes,Sam Smith,2020-10-30,179722,61,0.494,0.815,0.494,0.291,0.0,0.127,-8.441,0.0367,136.99,4
+53,Naked,Naked,James Arthur,2017-11-24,234106,72,0.529,0.104,0.529,0.607,0.0,0.0631,-6.781,0.0574,101.966,4
+54,bad ones,TOO YOUNG TO BE SAD,Tate McRae,2021-03-26,183133,65,0.692,0.305,0.692,0.431,1.39e-05,0.132,-11.884,0.0335,138.925,4
+55,Hold Me Like You Used To,Golden Wings,Zoe Wees,2021-05-21,186974,65,0.573,0.528,0.573,0.59,0.0,0.192,-6.308,0.0352,124.958,3
+56,i love you,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,291796,80,0.421,0.952,0.421,0.131,0.00453,0.109,-18.435,0.0382,137.446,4
+57,Lying That You Love Me,Lying That You Love Me,JC Stewart,2020-02-21,225792,58,0.558,0.291,0.558,0.45,0.0,0.432,-5.576,0.0299,127.874,4
+58,I Can't Fall in Love Without You,So Good,Zara Larsson,2017-03-17,180640,68,0.485,0.784,0.485,0.332,0.000122,0.146,-9.244,0.0338,130.813,4
+59,The Night We Met,Strange Trails,Lord Huron,2015-04-06,208211,3,0.443,0.969,0.443,0.369,0.277,0.638,-9.514,0.0441,174.107,3
+60,Superficial Love,The Intro,Ruth B.,2015-11-27,207973,68,0.477,0.928,0.477,0.242,0.0,0.0818,-9.162,0.0529,43.509,4
+61,Atlantis,Tell Me It's Real (Expanded Edition),Seafret,2016-01-29,229173,74,0.4,0.0529,0.4,0.479,2.14e-06,0.115,-7.989,0.0308,166.159,4
+62,Too Good At Goodbyes - Edit,Too Good At Goodbyes,Sam Smith,2017-09-08,201000,0,0.653,0.658,0.653,0.378,0.0,0.177,-8.273,0.0533,91.835,4
+63,Certain Things (feat. Chasing Grace),James Arthur (Deluxe),James Arthur,2013-11-04,233466,61,0.511,0.471,0.511,0.621,9.72e-05,0.0893,-8.751,0.123,129.885,4
+64,"1 step forward, 3 steps back",SOUR,Olivia Rodrigo,2021-05-21,163586,80,0.473,0.941,0.473,0.203,0.0,0.126,-12.627,0.102,168.884,4
+65,Be My Mistake,A Brief Inquiry Into Online Relationships,The 1975,2018-11-30,256688,72,0.572,0.835,0.572,0.155,0.000137,0.0906,-14.405,0.0344,109.923,3
+66,You Said You'd Grow Old With Me,Wide Awake,Michael Schulte,2012-09-28,224743,67,0.531,0.905,0.531,0.347,0.0,0.0935,-7.044,0.0345,114.441,4
+67,The Fault in Our Stars,The Fault in Our Stars,Troye Sivan,2013-05-05,187194,63,0.481,0.613,0.481,0.179,2.84e-05,0.145,-21.424,0.109,74.85,4
+68,When You Love Someone,First Impressions,James TW,2016-04-15,216373,0,0.68,0.256,0.68,0.446,0.0,0.0515,-6.039,0.0281,125.863,4
+69,Love You Goodbye,Made In The A.M. (Deluxe Edition),One Direction,2015-11-13,196933,67,0.546,0.0928,0.546,0.657,0.0,0.119,-4.787,0.0332,133.188,4
+70,Sad Song (feat. Elena Coats),Somewhere Somehow,We The Kings,2013-12-16,226330,0,0.512,0.0843,0.512,0.559,0.0,0.0696,-5.498,0.0253,85.017,4
+71,Nothing Like Us,Believe Acoustic,Justin Bieber,2013-01-01,199800,64,0.546,0.987,0.546,0.155,6.02e-05,0.18,-14.378,0.0428,72.331,4
+72,Favourite Ex,Favourite Ex,Maisie Peters,2019-04-12,201694,65,0.396,0.718,0.396,0.177,0.0,0.139,-10.277,0.0378,177.215,3
+73,Heart Like Yours,If I Stay (Original Motion Picture Soundtrack),Various Artists,2014-08-22,199960,63,0.465,0.874,0.465,0.259,0.0,0.102,-9.849,0.0318,93.301,4
+74,River Of Tears,Know-It-All (Deluxe),Alessia Cara,2015-11-13,254506,61,0.388,0.928,0.388,0.372,0.0,0.146,-5.72,0.0468,89.701,4
+75,Wait for You (feat. Zoe Wees),Wait for You (feat. Zoe Wees),Tom Walker,2020-09-11,153026,67,0.502,0.366,0.502,0.65,0.0,0.0956,-4.27,0.0531,159.78,4
+76,Mercy,Illuminate (Deluxe),Shawn Mendes,2016-09-23,208733,0,0.562,0.113,0.562,0.681,0.0,0.11,-4.934,0.0871,148.064,4
+77,A Thousand Years,A Thousand Years,Christina Perri,2011-10-18,285120,80,0.421,0.309,0.421,0.407,0.000961,0.11,-7.445,0.0267,139.028,3
+78,Impossible,James Arthur (Deluxe),James Arthur,2013-11-04,209440,77,0.376,0.135,0.376,0.695,0.0,0.11,-4.782,0.0933,169.533,4
+79,I Found,Pilot EP,Amber Run,2014-09-21,274226,59,0.28,0.879,0.28,0.317,0.00731,0.108,-12.433,0.0474,186.471,3
+80,Take Me Home,I Cry When I Laugh,Jess Glynne,2015,265381,69,0.558,0.292,0.558,0.451,0.0,0.101,-6.163,0.0388,150.008,4
+81,All I Ever Need,The Secret,Austin Mahone,2014-05-23,213680,0,0.704,0.104,0.704,0.609,0.0,0.112,-6.158,0.0304,129.945,4
+82,"Helium - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",Fifty Shades Darker (Original Motion Picture Soundtrack),Various Artists,2017-02-10,252320,0,0.409,0.461,0.409,0.413,0.0,0.0765,-6.722,0.0296,137.02,4
+83,Clean,Clean,Travis Atreo,2014-12-29,270000,7,0.4,0.826,0.4,0.25,0.0,0.118,-9.111,0.036,207.528,4
+84,Please Don't Go,Please Don't Go,Joel Adams,2015-11-06,210580,73,0.513,0.0118,0.513,0.768,1.94e-05,0.294,-4.868,0.0587,84.264,4
+85,Paralyzed,Mansion,NF,2015-03-31,270453,0,0.504,0.187,0.504,0.654,6.45e-06,0.102,-6.662,0.0476,130.027,4
+86,You Belong To Somebody Else,You Belong To Somebody Else,PJ Harding,2021-03-19,199144,56,0.701,0.732,0.701,0.39,0.0,0.107,-8.235,0.032,119.956,4
+87,Bad,Oh My Messy Mind,James Bay,2019-05-10,225920,63,0.549,0.756,0.549,0.413,0.0,0.0939,-5.587,0.0362,139.981,4
+88,Photograph,x (Deluxe Edition),Ed Sheeran,2014-06-21,258986,84,0.614,0.607,0.614,0.379,0.000464,0.0986,-10.48,0.0476,107.989,4
+89,Dear No One,Foreword,Tori Kelly,2013-01-01,197846,0,0.68,0.123,0.68,0.585,0.0,0.103,-5.898,0.249,83.791,4
+90,i don't think i love you anymore,i don't think i love you anymore,Alaina Castillo,2019-10-18,229383,56,0.557,0.731,0.557,0.358,6.14e-06,0.163,-7.095,0.0329,72.877,4
+91,Anchor,Anchor,Cailee Rae,2016-05-13,198483,0,0.565,0.22,0.565,0.719,0.00105,0.164,-5.656,0.0978,165.917,4
+92,All I Want,All I Want,Emma Bale,2014-12-09,222675,0,0.279,0.94,0.279,0.146,7.44e-06,0.113,-8.956,0.0409,179.726,3
+93,Lost Boy,Lost Boy,Ruth B.,2015-08-21,275280,75,0.71,0.965,0.71,0.0565,0.0,0.0889,-15.099,0.0534,123.994,4
+94,Anyone,Anyone,Demi Lovato,2020-01-27,227813,57,0.557,0.876,0.557,0.387,0.0,0.111,-6.338,0.0374,129.98,4
+95,Too Much To Ask,Too Much To Ask,Niall Horan,2017-09-14,223043,0,0.517,0.375,0.517,0.552,0.0,0.106,-6.401,0.039,153.747,4
+96,Heal,Long Way Down (Deluxe),Tom Odell,2013-06-24,193080,73,0.445,0.952,0.445,0.179,0.00056,0.107,-12.938,0.0396,72.246,4
+97,I Was Made For Loving You,Unbreakable Smile (Deluxe),Tori Kelly,2015-10-16,188939,0,0.381,0.33,0.381,0.344,0.0,0.0973,-11.939,0.0311,109.289,3
+98,Lay By Me,Lay By Me,Ruben,2018-12-28,170830,0,0.461,0.873,0.461,0.195,0.0,0.11,-7.301,0.0352,110.193,4
+99,when the party's over,when the party's over,Billie Eilish,2018-10-17,199931,1,0.498,0.979,0.498,0.104,7.86e-05,0.0895,-14.08,0.0621,124.001,3
