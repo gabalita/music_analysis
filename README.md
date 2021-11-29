@@ -1,16 +1,18 @@
 # Spotify and Apple Mood Music Analysis 
 
-Segment 2 Summary:
-We provide links to all the necessary files. Right now we're having trouble committing files to main branch, so our work is spread across different branches. We will condense and organize Github repo this coming week. 
-1. Presentation: https://docs.google.com/presentation/d/1QXlsqbagmJMQYZ5z3b8W8y9wzVafMxwwkMXmu04bmEA/edit#slide=id.p
+Segment 3 Summary and Update:
+We cleaned up a bit of our repo and successfully merged all our ETL code to main. Now we have to merge our SQL files (in Ekta's branch) and ML files (Baiyang's branch) to main. 
+1. Current Presentation: https://docs.google.com/presentation/d/1QXlsqbagmJMQYZ5z3b8W8y9wzVafMxwwkMXmu04bmEA/edit#slide=id.p
 2. Database and ETL files:
-- Code we used to access Spotify API and extract, clean, and load data from Jupyter Notebook to SQL: https://github.com/gabalita/music_analysis/blob/tutorial/ETL/ETL_mood_code.ipynb
+- Code we used to extract data from Spotify API is in ETL folder in main branch. 
 - SQL queries we used to analyze the data intially:  https://github.com/gabalita/music_analysis/blob/ekta/playlist_queries.sql
 3. Machine Learning: 
 - Analysis of Happy, Sad, and Workout as 3 separate categories: https://github.com/gabalita/music_analysis/blob/Baiyang/notebook/Input_Data_test.ipynb
 - Analysis of Happy (combination of Happy and Workout) and Sad: https://github.com/gabalita/music_analysis/blob/Baiyang/notebook/Input_Data_test_2.ipynb
 4. Dashboard Blueprint
-- Blueprint is on Slide 11 of Google Slides presentation (which includes the link to the Tableau Public file and description of additional visualizations in our data story)
+- Blueprint is on Slide 11 of Google Slides presentation (which includes the link to the Tableau Public file and description of additional visualizations in our data story). We still need to condense our graphs into 1 dashboard. 
+- https://public.tableau.com/app/profile/cffhr99/viz/Happy_Sad/Dashboard1
+- https://public.tableau.com/app/profile/gabriella.chen/viz/VisualizationsofBillboardSpotifyTopSongs/SpotifyWrappedandBillboardTop100MoodAnalysis
 
 ## Intro and Purpose
 **Purpose of the Project:** <br> </br>
@@ -23,7 +25,6 @@ The purpose of this project was to use Spotify data to understand what makes a s
 
 **Sources of Data:**
 - Spotify API
-- Musix Match API
 
 
 **Questions we hope to answer:**
