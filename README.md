@@ -1,6 +1,6 @@
 # Spotify and Apple Mood Music Analysis 
 
-Current Presentation: https://docs.google.com/presentation/d/1QXlsqbagmJMQYZ5z3b8W8y9wzVafMxwwkMXmu04bmEA/edit#slide=id.p
+Presentation: https://docs.google.com/presentation/d/1QXlsqbagmJMQYZ5z3b8W8y9wzVafMxwwkMXmu04bmEA/edit#slide=id.p
 
 
 ## Intro and Purpose
