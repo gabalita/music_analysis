@@ -1,9 +1,0 @@
-.cache
-
-.DS_Store
-
-.ipynb_checkpoints/
-
-config.py
-
-__pycache__/

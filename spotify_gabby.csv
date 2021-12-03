@@ -1,0 +1,51 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,All Of My Love - HYDDIN Remix,All Of My Love (Remixes),Adam Pearce,2020-11-06,212694,6,0.395,0.0344,0.395,0.717,0.000438,0.164,-6.245,0.0625,79.545,4
+1,what i know,what i know,mike.,2021-06-11,189000,22,0.548,0.623,0.548,0.355,0.0,0.155,-11.161,0.195,94.059,4
+2,so sick,so sick,mike.,2021-05-07,125423,52,0.816,0.12,0.816,0.434,3.07e-05,0.109,-10.029,0.0756,88.978,4
+3,i don't wanna party,i don't wanna party,mike.,2021-03-12,179424,58,0.755,0.606,0.755,0.404,8.04e-05,0.127,-6.404,0.0539,99.012,4
+4,Piece of Me,Piece of Me,Tano | Mark,2021-04-30,175124,20,0.607,0.0641,0.607,0.748,0.0,0.136,-5.321,0.0554,160.222,4
+5,Summer on You,Summer on You,Tano | Mark,2021-06-11,216000,22,0.526,0.0522,0.526,0.78,0.0,0.13,-6.763,0.0533,100.164,4
+6,Rise,Tales on Exhale,Danny del Ray,2020-10-30,180755,14,0.62,0.638,0.62,0.831,0.0,0.285,-4.266,0.523,175.326,4
+7,Everlong,The Colour And The Shape,Foo Fighters,1997-05-20,250546,78,0.413,5.99e-05,0.413,0.881,0.000308,0.0805,-5.541,0.0367,158.066,4
+8,Friends & Family,Emergency Tsunami,NAV,2020-11-06,145121,60,0.853,0.0331,0.853,0.502,0.0,0.144,-7.187,0.105,129.02,4
+9,Loft Music,Trilogy,The Weeknd,2012-11-13,363640,62,0.287,0.581,0.287,0.498,7.56e-05,0.322,-7.523,0.177,171.725,4
+10,No Debate (feat. Young Thug),Good Intentions,NAV,2020-05-08,128071,53,0.857,0.00209,0.857,0.654,0.0,0.115,-6.303,0.326,88.015,4
+11,My Business (feat. Future),Good Intentions,NAV,2020-05-08,199104,52,0.853,0.0809,0.853,0.881,0.0,0.141,-4.949,0.178,139.979,4
+12,I Want You,Only By The Night,Kings of Leon,2008-09-23,307453,56,0.705,0.115,0.705,0.643,0.000763,0.111,-6.556,0.0276,99.198,4
+13,Face Of My City (feat. Lil Baby),Thats What They All Say,Jack Harlow,2020-12-11,123446,68,0.74,0.0034,0.74,0.566,0.0,0.589,-8.389,0.32,156.197,4
+14,Gone,Yesterday's Tomorrow Night,Harry Hudson,2018-03-30,226045,13,0.571,0.403,0.571,0.456,1.32e-05,0.135,-7.596,0.027,97.027,4
+15,Die For Me (feat. Future & Halsey),Hollywood's Bleeding,Post Malone,2019-09-06,245266,72,0.614,0.19,0.614,0.66,0.0,0.211,-2.848,0.0441,145.01,4
+16,Young Wheezy (with Gunna),Emergency Tsunami (Bonus Version),NAV,2020-11-11,151481,43,0.916,0.00998,0.916,0.529,0.0,0.0884,-3.785,0.102,121.998,4
+17,Drip Too Hard (Lil Baby & Gunna),Drip Harder,Lil Baby,2018-10-05,145542,81,0.897,0.0852,0.897,0.662,0.0,0.534,-6.903,0.292,112.511,4
+18,FRANCHISE (feat. Young Thug & M.I.A.),FRANCHISE (feat. Young Thug & M.I.A.),Travis Scott,2020-09-25,202794,74,0.835,0.00671,0.835,0.699,0.0,0.195,-5.405,0.277,154.981,4
+19,Take What You Want (feat. Ozzy Osbourne & Travis Scott),Hollywood's Bleeding,Post Malone,2019-09-06,229573,76,0.499,0.0906,0.499,0.8,0.0,0.147,-2.665,0.0502,139.919,4
+20,Wheels Up,Wheels Up,Future Royalty,2021-04-20,237313,21,0.541,0.0174,0.541,0.71,0.00145,0.313,-10.685,0.0554,133.978,4
+21,The Best,The Best,Future Royalty,2019-04-05,226478,53,0.578,0.0328,0.578,0.861,0.019,0.103,-6.043,0.0995,142.032,4
+22,Put On,The Recession,Jeezy,2008-01-01,321293,70,0.654,0.00342,0.654,0.77,0.0,0.0887,-6.091,0.0353,137.616,4
+23,Repercussions (with Young Thug),Emergency Tsunami (Bonus Version),NAV,2020-11-11,159003,41,0.791,0.00171,0.791,0.77,0.0,0.141,-5.133,0.112,159.944,4
+24,Always Strapped,Always Strapped,Birdman,2009-01-01,208533,14,0.739,0.0624,0.739,0.602,0.000204,0.102,-6.64,0.228,82.492,4
+25,You Be Killin Em,There Is No Competition 2: The Grieving Music Mixtape,Fabolous,2010-01-01,209693,57,0.664,0.444,0.664,0.909,0.0,0.525,-3.552,0.22,93.977,4
+26,Up All Night,Thank Me Later,Drake,2010-01-01,234333,62,0.606,0.00782,0.606,0.811,1.49e-05,0.349,-4.667,0.278,156.347,4
+27,G-Unit,Beg For Mercy,G-Unit,2003-01-01,209333,0,0.704,0.083,0.704,0.902,0.0,0.0725,-3.204,0.299,88.241,4
+28,N.O.R.E.,N.O.R.E.,N.O.R.E.,1998,194040,0,0.884,0.00128,0.884,0.726,0.0,0.0521,-4.483,0.289,93.477,4
+29,"Tadow (feat. French Montana, 2 Chainz & Pusha T)","Tadow feat. French Montana, 2 Chainz & Pusha T",N.O.R.E.,2013-01-15,249980,0,0.661,0.11,0.661,0.836,0.0,0.32,-6.487,0.34,140.014,4
+30,Stunt 101,Beg For Mercy,G-Unit,2003-01-01,232226,0,0.743,0.177,0.743,0.771,0.0,0.12,-1.492,0.355,95.827,4
+31,Hold You Down,Hold You Down,DJ Khaled,2014-08-08,293253,0,0.507,0.208,0.507,0.664,0.0,0.165,-4.763,0.0669,151.873,3
+32,Take Me to Church,Take Me to Church EP,Hozier,2013-09-13,241586,45,0.572,0.59,0.572,0.661,0.0,0.121,-5.304,0.0472,129.093,4
+33,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",Listen (Deluxe),David Guetta,2014-11-24,192560,63,0.596,0.24,0.596,0.73,0.0,0.325,-4.091,0.151,85.979,4
+34,Ballin Out,Excuse My French (Deluxe),French Montana,2013-01-01,265346,31,0.56,0.064,0.56,0.734,0.0,0.08,-3.973,0.121,75.836,4
+35,Patiently Waiting,Get Rich Or Die Tryin',50 Cent,2003-02-06,288880,62,0.538,0.245,0.538,0.675,0.0,0.362,-2.3,0.335,78.985,4
+36,Bad B*tch,Bad B*tch,French Montana,2014-12-15,244386,0,0.701,0.176,0.701,0.633,0.0,0.714,-7.71,0.152,99.926,4
+37,When I Feel Like It,When I Feel Like It,Fabolous,2013-01-01,258079,39,0.739,0.0125,0.739,0.56,0.0,0.223,-7.227,0.0674,114.984,4
+38,Nightcrawler (feat. Swae Lee & Chief Keef),Rodeo (Expanded Edition),Travis Scott,2015-09-04,321560,66,0.522,0.00134,0.522,0.728,0.0,0.132,-3.801,0.0323,124.045,4
+39,Tapout,Tapout,Rich Gang,2013-01-01,284600,52,0.738,0.0522,0.738,0.547,1.23e-06,0.109,-6.54,0.133,142.052,4
+40,No Games,No Games,Rick Ross,2013-01-01,233426,44,0.759,0.0185,0.759,0.828,1.66e-06,0.159,-4.217,0.0532,146.58,4
+41,Where Ya At (feat. Drake),DS2 (Deluxe),Future,2015-07-17,208026,67,0.813,0.0933,0.813,0.453,0.0,0.14,-6.941,0.338,161.997,4
+42,Da Trill,Whoo's Afraid Of Fiddy,DJ Whoo Kid,2009-11-17,164440,0,0.615,0.027,0.615,0.787,0.0,0.399,-3.533,0.446,115.374,5
+43,"Oh My (Remix) feat. Trey Songz, 2 Chainz, and Big Sean",Third Power,DJ Drama,2011-10-11,299653,0,0.677,0.0232,0.677,0.701,0.0,0.213,-6.383,0.129,135.905,4
+44,"4 What (feat. Young Jeezy, Yo Gotti & Juicy J)","4 What feat. Jeezy, Yo Gotti & Juicy J",DJ Drama,2013-06-25,246792,0,0.652,0.0163,0.652,0.746,0.0,0.305,-6.941,0.0852,144.962,4
+45,Often - Kygo Remix,Often (Kygo Remix),The Weeknd,2015-04-07,234400,68,0.523,0.123,0.523,0.491,0.0,0.331,-9.876,0.0491,80.156,4
+46,Hey Luv (Anything) (feat. 112),Life Of The Infamous: The Best Of Mobb Deep,Mobb Deep,2006-10-31,236786,19,0.836,0.137,0.836,0.675,0.0,0.0689,-5.281,0.17,99.022,4
+47,Salute,Loso's Way,Fabolous,2009-01-01,267266,30,0.629,0.303,0.629,0.682,0.0,0.173,-6.75,0.329,75.331,4
+48,All I've Got,SOLACE,RÜFÜS DU SOL,2018-10-19,223386,52,0.645,0.0359,0.645,0.686,0.0108,0.456,-6.952,0.0311,121.012,4
+49,Sundream,Atlas (Light / Dark Deluxe Edition),RÜFÜS DU SOL,2013,275493,63,0.686,0.049,0.686,0.712,0.0042,0.368,-7.58,0.0383,121.966,4
